@@ -1,0 +1,6 @@
+{
+  "name": "Child Care Monitor",
+  "description": "An interactive, beautiful parent-level application to monitor and control a child's screen time, blocked apps, location safety, and completed chores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
